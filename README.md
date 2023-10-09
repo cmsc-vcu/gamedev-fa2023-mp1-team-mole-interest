@@ -20,4 +20,4 @@ Credits:
 A game made by Allen Lee and Peter Trafelet. All art done by Peter Trafelet. Easter egg image came from free stock image site and can be found here: https://pixabay.com/illustrations/clipart-easter-egg-outer-space-3268674/
 
 Licence: 
-GNU General Public License v3.0 - see file "COPYING" for more. 
+GNU General Public License v3.0 - see file "LICENSE" for more. 
